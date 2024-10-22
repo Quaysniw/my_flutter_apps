@@ -30,6 +30,7 @@ class IntroPage extends StatelessWidget {
             const SizedBox(height: 25),
 
 
+            
             // icon
             Padding(
               padding: const EdgeInsets.all(50.0),
